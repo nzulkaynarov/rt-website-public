@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://locodep.uz/sitemap.xml
+Sitemap: https://nzulkaynarov.github.io/rt-website-public/sitemap.xml
