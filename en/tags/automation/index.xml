@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automation on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/tags/automation/</link><description>Recent content in Automation on RailTech</description><generator>Hugo</generator><language>en</language><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/tags/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>RailTech B2B Platform Development</title><link>https://nzulkaynarov.github.io/rt-website-public/en/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/projects/b2b-platform/</guid><description>&lt;h2 id="about-the-project">About the Project&lt;/h2>
+&lt;p>A proprietary development by RailTech — a digital B2B platform that automates the full industrial equipment supply cycle.&lt;/p>
+&lt;h3 id="key-modules">Key Modules&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Catalog&lt;/strong> — 500+ items from 86 manufacturers with technical documentation&lt;/li>
+&lt;li>&lt;strong>Quote Calculator&lt;/strong> — automatic Landed Cost computation&lt;/li>
+&lt;li>&lt;strong>CRM&lt;/strong> — deal management and document workflow&lt;/li>
+&lt;li>&lt;strong>Partner Portal&lt;/strong> — partner workspace with KYC verification&lt;/li>
+&lt;li>&lt;strong>Smart Import&lt;/strong> — Excel upload with automatic item matching&lt;/li>
+&lt;li>&lt;strong>Admin Panel&lt;/strong> — system-wide monitoring and management&lt;/li>
+&lt;/ul>
+&lt;h3 id="technology">Technology&lt;/h3>
+&lt;p>The platform is built on a modern technology stack, ensuring high performance, security, and scalability.&lt;/p></description></item></channel></rss>

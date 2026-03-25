@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B2B on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/tags/b2b/</link><description>Recent content in B2B on RailTech</description><generator>Hugo</generator><language>ru</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/tags/b2b/index.xml" rel="self" type="application/rss+xml"/><item><title>Разработка B2B платформы RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/projects/b2b-platform/</guid><description>&lt;h2 id="о-проекте">О проекте&lt;/h2>
+&lt;p>Собственная разработка компании RailTech — цифровая B2B платформа, автоматизирующая полный цикл поставки промышленного оборудования.&lt;/p>
+&lt;h3 id="ключевые-модули">Ключевые модули&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Каталог&lt;/strong> — 500+ позиций от 86 производителей с техдокументацией&lt;/li>
+&lt;li>&lt;strong>Калькулятор КП&lt;/strong> — автоматический расчёт Landed Cost&lt;/li>
+&lt;li>&lt;strong>CRM&lt;/strong> — управление сделками и документооборотом&lt;/li>
+&lt;li>&lt;strong>Личный кабинет&lt;/strong> — портал партнёра с KYC-верификацией&lt;/li>
+&lt;li>&lt;strong>Smart Import&lt;/strong> — загрузка Excel с автоматическим сопоставлением&lt;/li>
+&lt;li>&lt;strong>Админ-панель&lt;/strong> — мониторинг и управление всей системой&lt;/li>
+&lt;/ul>
+&lt;h3 id="технологии">Технологии&lt;/h3>
+&lt;p>Платформа построена на современном стеке технологий, обеспечивающем высокую производительность, безопасность и масштабируемость.&lt;/p></description></item><item><title>RailTech запустила B2B платформу для промышленных закупок</title><link>https://nzulkaynarov.github.io/rt-website-public/blog/b2b-platform-launch/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/blog/b2b-platform-launch/</guid><description>&lt;p>Компания RailTech представила собственную цифровую B2B платформу, которая автоматизирует полный цикл поставки промышленного оборудования в Узбекистане.&lt;/p>
+&lt;h2 id="что-умеет-платформа">Что умеет платформа&lt;/h2>
+&lt;p>Платформа объединяет каталог из 500+ позиций оборудования, калькулятор коммерческих предложений с расчётом Landed Cost, CRM-систему для управления сделками и личный кабинет партнёра с KYC-верификацией.&lt;/p>
+&lt;p>Ключевая особенность — функция &lt;strong>Smart Import&lt;/strong>, позволяющая загрузить Excel-файл с перечнем нужных позиций и автоматически сопоставить их с номенклатурой каталога. Точность алгоритма составляет около 92%.&lt;/p>
+&lt;h2 id="для-кого">Для кого&lt;/h2>
+&lt;p>Платформа предназначена для промышленных предприятий, закупающих оборудование для:&lt;/p></description></item></channel></rss>
