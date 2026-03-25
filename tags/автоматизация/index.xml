@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Автоматизация on RailTech</title><link>https://locodep.uz/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</link><description>Recent content in Автоматизация on RailTech</description><generator>Hugo</generator><language>ru</language><atom:link href="https://locodep.uz/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Разработка B2B платформы RailTech</title><link>https://locodep.uz/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://locodep.uz/projects/b2b-platform/</guid><description>&lt;h2 id="о-проекте">О проекте&lt;/h2>
+&lt;p>Собственная разработка компании RailTech — цифровая B2B платформа, автоматизирующая полный цикл поставки промышленного оборудования.&lt;/p>
+&lt;h3 id="ключевые-модули">Ключевые модули&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Каталог&lt;/strong> — 500+ позиций от 86 производителей с техдокументацией&lt;/li>
+&lt;li>&lt;strong>Калькулятор КП&lt;/strong> — автоматический расчёт Landed Cost&lt;/li>
+&lt;li>&lt;strong>CRM&lt;/strong> — управление сделками и документооборотом&lt;/li>
+&lt;li>&lt;strong>Личный кабинет&lt;/strong> — портал партнёра с KYC-верификацией&lt;/li>
+&lt;li>&lt;strong>Smart Import&lt;/strong> — загрузка Excel с автоматическим сопоставлением&lt;/li>
+&lt;li>&lt;strong>Админ-панель&lt;/strong> — мониторинг и управление всей системой&lt;/li>
+&lt;/ul>
+&lt;h3 id="технологии">Технологии&lt;/h3>
+&lt;p>Платформа построена на современном стеке технологий, обеспечивающем высокую производительность, безопасность и масштабируемость.&lt;/p></description></item></channel></rss>
