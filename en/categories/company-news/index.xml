@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Company News on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/categories/company-news/</link><description>Recent content in Company News on RailTech</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/categories/company-news/index.xml" rel="self" type="application/rss+xml"/><item><title>RailTech Launches B2B Platform for Industrial Procurement</title><link>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</guid><description>&lt;p>RailTech has launched its proprietary digital B2B platform, automating the full cycle of industrial equipment supply in Uzbekistan.&lt;/p>
-&lt;h2 id="platform-capabilities">Platform Capabilities&lt;/h2>
-&lt;p>The platform integrates a catalog of 500+ equipment items, a quote calculator with Landed Cost computation, a CRM system for deal management, and a Partner Portal with KYC verification.&lt;/p>
-&lt;p>The standout feature is &lt;strong>Smart Import&lt;/strong>, which allows users to upload an Excel file with their required items and automatically match them against the catalog. The algorithm achieves approximately 92% accuracy.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Company News on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/categories/company-news/</link><description>Recent content in Company News on RailTech</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/categories/company-news/index.xml" rel="self" type="application/rss+xml"/><item><title>RailTech Launches B2B Platform for Industrial Procurement</title><link>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</guid><description>&lt;p&gt;RailTech has launched its proprietary digital B2B platform, automating the full cycle of industrial equipment supply in Uzbekistan.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Platform Capabilities
+ &lt;div id="platform-capabilities" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#platform-capabilities" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;The platform integrates a catalog of 500+ equipment items, a quote calculator with Landed Cost computation, a CRM system for deal management, and a Partner Portal with KYC verification.&lt;/p&gt;
+&lt;p&gt;The standout feature is &lt;strong&gt;Smart Import&lt;/strong&gt;, which allows users to upload an Excel file with their required items and automatically match them against the catalog. The algorithm achieves approximately 92% accuracy.&lt;/p&gt;</description></item></channel></rss>

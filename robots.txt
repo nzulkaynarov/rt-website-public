@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://nzulkaynarov.github.io/rt-website-public/sitemap.xml

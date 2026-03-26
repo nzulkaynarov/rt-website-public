@@ -1,41 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyihalar on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/</link><description>Recent content in Loyihalar on RailTech</description><generator>Hugo</generator><language>uz</language><atom:link href="https://nzulkaynarov.github.io/rt-website-public/uz/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>O'zbekiston temir yo'llari uchun harakat xavfsizligi tizimlari</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/uty-safety-systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/uty-safety-systems/</guid><description>&lt;h2 id="loyiha-haqida">Loyiha haqida&lt;/h2>
-&lt;p>2023-yilda «RailTech» AJ «O&amp;rsquo;zbekiston temir yo&amp;rsquo;llari» buyurtmasiga binoan zamonaviy harakat xavfsizligi tizimlarini yetkazib berish va joriy etish bo&amp;rsquo;yicha yirik loyihani amalga oshirdi.&lt;/p>
-&lt;h3 id="vazifa">Vazifa&lt;/h3>
-&lt;p>O&amp;rsquo;zbekiston temir yo&amp;rsquo;l tarmoqining ayrim uchastkalarida mavjud xavfsizlik tizimlarini zamonaviy uskunalarga almashtirish va poyezd harakatining xavfsizligini oshirish.&lt;/p>
-&lt;h3 id="amalga-oshirilgan-ishlar">Amalga oshirilgan ishlar&lt;/h3>
-&lt;ul>
-&lt;li>Mavjud tizimlarni tahlil qilish va texnik topshiriqni ishlab chiqish&lt;/li>
-&lt;li>Zamonaviy signalizatsiya va xavfsizlik uskunalarini tanlash&lt;/li>
-&lt;li>Uskunalarni xorijdan yetkazib berish va bojxona rasmiylashtiruvi&lt;/li>
-&lt;li>O&amp;rsquo;rnatish va sozlash ishlarida texnik nazorat&lt;/li>
-&lt;li>Xodimlarni yangi uskunalar bilan ishlashga o&amp;rsquo;qitish&lt;/li>
-&lt;/ul>
-&lt;h3 id="natijalar">Natijalar&lt;/h3>
-&lt;p>Loyiha muvaffaqiyatli yakunlandi. Yangi tizimlar poyezd harakatining xavfsizligini sezilarli darajada oshirdi va xalqaro standartlarga muvofiqlikni ta&amp;rsquo;minladi.&lt;/p></description></item><item><title>RailTech B2B raqamli platformasi</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/b2b-platform/</guid><description>&lt;h2 id="loyiha-haqida">Loyiha haqida&lt;/h2>
-&lt;p>2024-yilda «RailTech» o&amp;rsquo;z faoliyatini raqamlashtirish va hamkorlar uchun qulay raqamli muhit yaratish maqsadida B2B platformani ishlab chiqdi va ishga tushirdi.&lt;/p>
-&lt;h3 id="vazifa">Vazifa&lt;/h3>
-&lt;p>Temir yo&amp;rsquo;l uskunalarini xarid qilish jarayonini soddalashtiruvchi, shaffof va samarali qiluvchi raqamli platforma yaratish.&lt;/p>
-&lt;h3 id="platforma-modullari">Platforma modullari&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Katalog&lt;/strong> — 500+ mahsulotning batafsil texnik tavsifnomalari bilan raqamli katalogi&lt;/li>
-&lt;li>&lt;strong>TT Kalkulyator&lt;/strong> — narxlarni avtomatik hisoblash va tijorat takliflarini shakllantirish&lt;/li>
-&lt;li>&lt;strong>Bitimlar&lt;/strong> — buyurtmalar va shartnomalarni boshqarish tizimi&lt;/li>
-&lt;li>&lt;strong>Shaxsiy kabinet&lt;/strong> — hamkorlar uchun boshqaruv paneli&lt;/li>
-&lt;li>&lt;strong>Smart Import&lt;/strong> — import operatsiyalarini boshqarish moduli&lt;/li>
-&lt;li>&lt;strong>Admin panel&lt;/strong> — platforma boshqaruvi uchun administrator paneli&lt;/li>
-&lt;/ul>
-&lt;h3 id="natijalar">Natijalar&lt;/h3>
-&lt;p>Platforma muvaffaqiyatli ishga tushirildi va 120 dan ortiq hamkor tomonidan faol foydalanilmoqda. Buyurtma berish vaqti o&amp;rsquo;rtacha 60% ga qisqardi, hujjat aylanmasi to&amp;rsquo;liq raqamlashtirildi.&lt;/p></description></item><item><title>Toshkent OTBM uchun diagnostika uskunalari</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/diagnostic-equipment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/diagnostic-equipment/</guid><description>&lt;h2 id="loyiha-haqida">Loyiha haqida&lt;/h2>
-&lt;p>2024-yilda «RailTech» Toshkent ochiq turdagi boshqaruv mexanizmi (OTBM) uchun zamonaviy diagnostika uskunalarini yetkazib berish loyihasini amalga oshirdi.&lt;/p>
-&lt;h3 id="vazifa">Vazifa&lt;/h3>
-&lt;p>Vagonlarni ta&amp;rsquo;mirlash va texnik xizmat ko&amp;rsquo;rsatish sifatini oshirish maqsadida zamonaviy diagnostika uskunalarini yetkazib berish va joriy etish.&lt;/p>
-&lt;h3 id="amalga-oshirilgan-ishlar">Amalga oshirilgan ishlar&lt;/h3>
-&lt;ul>
-&lt;li>Korxona ehtiyojlarini tahlil qilish va texnik topshiriq ishlab chiqish&lt;/li>
-&lt;li>Diagnostika uskunalarini tanlash va xorijdan yetkazib berish&lt;/li>
-&lt;li>Uskunalarni o&amp;rsquo;rnatish va sozlash&lt;/li>
-&lt;li>Xodimlarni uskunalar bilan ishlash bo&amp;rsquo;yicha o&amp;rsquo;qitish&lt;/li>
-&lt;li>Texnik hujjatlarni o&amp;rsquo;zbek tiliga tarjima qilish va moslash&lt;/li>
-&lt;/ul>
-&lt;h3 id="natijalar">Natijalar&lt;/h3>
-&lt;p>Yangi diagnostika uskunalari ta&amp;rsquo;mirlash sifatini sezilarli oshirdi va nosozliklarni aniqlash vaqtini qisqartirdi. Korxona xodimlari yangi uskunalar bilan ishlash bo&amp;rsquo;yicha to&amp;rsquo;liq o&amp;rsquo;qitildi.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyihalar on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/</link><description>Recent content in Loyihalar on RailTech</description><generator>Hugo -- gohugo.io</generator><language>uz</language><atom:link href="https://nzulkaynarov.github.io/rt-website-public/uz/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>O'zbekiston temir yo'llari uchun harakat xavfsizligi tizimlari</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/uty-safety-systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/uty-safety-systems/</guid><description>&lt;h2 class="relative group"&gt;Loyiha haqida
+ &lt;div id="loyiha-haqida" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#loyiha-haqida" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;2023-yilda «RailTech» AJ «O&amp;rsquo;zbekiston temir yo&amp;rsquo;llari» buyurtmasiga binoan zamonaviy harakat xavfsizligi tizimlarini yetkazib berish va joriy etish bo&amp;rsquo;yicha yirik loyihani amalga oshirdi.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Vazifa
+ &lt;div id="vazifa" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vazifa" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;O&amp;rsquo;zbekiston temir yo&amp;rsquo;l tarmoqining ayrim uchastkalarida mavjud xavfsizlik tizimlarini zamonaviy uskunalarga almashtirish va poyezd harakatining xavfsizligini oshirish.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Amalga oshirilgan ishlar
+ &lt;div id="amalga-oshirilgan-ishlar" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#amalga-oshirilgan-ishlar" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mavjud tizimlarni tahlil qilish va texnik topshiriqni ishlab chiqish&lt;/li&gt;
+&lt;li&gt;Zamonaviy signalizatsiya va xavfsizlik uskunalarini tanlash&lt;/li&gt;
+&lt;li&gt;Uskunalarni xorijdan yetkazib berish va bojxona rasmiylashtiruvi&lt;/li&gt;
+&lt;li&gt;O&amp;rsquo;rnatish va sozlash ishlarida texnik nazorat&lt;/li&gt;
+&lt;li&gt;Xodimlarni yangi uskunalar bilan ishlashga o&amp;rsquo;qitish&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;Natijalar
+ &lt;div id="natijalar" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#natijalar" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Loyiha muvaffaqiyatli yakunlandi. Yangi tizimlar poyezd harakatining xavfsizligini sezilarli darajada oshirdi va xalqaro standartlarga muvofiqlikni ta&amp;rsquo;minladi.&lt;/p&gt;</description></item><item><title>RailTech B2B raqamli platformasi</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/b2b-platform/</guid><description>&lt;h2 class="relative group"&gt;Loyiha haqida
+ &lt;div id="loyiha-haqida" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#loyiha-haqida" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;2024-yilda «RailTech» o&amp;rsquo;z faoliyatini raqamlashtirish va hamkorlar uchun qulay raqamli muhit yaratish maqsadida B2B platformani ishlab chiqdi va ishga tushirdi.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Vazifa
+ &lt;div id="vazifa" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vazifa" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Temir yo&amp;rsquo;l uskunalarini xarid qilish jarayonini soddalashtiruvchi, shaffof va samarali qiluvchi raqamli platforma yaratish.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Platforma modullari
+ &lt;div id="platforma-modullari" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#platforma-modullari" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Katalog&lt;/strong&gt; — 500+ mahsulotning batafsil texnik tavsifnomalari bilan raqamli katalogi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TT Kalkulyator&lt;/strong&gt; — narxlarni avtomatik hisoblash va tijorat takliflarini shakllantirish&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitimlar&lt;/strong&gt; — buyurtmalar va shartnomalarni boshqarish tizimi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shaxsiy kabinet&lt;/strong&gt; — hamkorlar uchun boshqaruv paneli&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smart Import&lt;/strong&gt; — import operatsiyalarini boshqarish moduli&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Admin panel&lt;/strong&gt; — platforma boshqaruvi uchun administrator paneli&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;Natijalar
+ &lt;div id="natijalar" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#natijalar" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Platforma muvaffaqiyatli ishga tushirildi va 120 dan ortiq hamkor tomonidan faol foydalanilmoqda. Buyurtma berish vaqti o&amp;rsquo;rtacha 60% ga qisqardi, hujjat aylanmasi to&amp;rsquo;liq raqamlashtirildi.&lt;/p&gt;</description></item><item><title>Toshkent OTBM uchun diagnostika uskunalari</title><link>https://nzulkaynarov.github.io/rt-website-public/uz/projects/diagnostic-equipment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/uz/projects/diagnostic-equipment/</guid><description>&lt;h2 class="relative group"&gt;Loyiha haqida
+ &lt;div id="loyiha-haqida" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#loyiha-haqida" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;2024-yilda «RailTech» Toshkent ochiq turdagi boshqaruv mexanizmi (OTBM) uchun zamonaviy diagnostika uskunalarini yetkazib berish loyihasini amalga oshirdi.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Vazifa
+ &lt;div id="vazifa" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vazifa" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Vagonlarni ta&amp;rsquo;mirlash va texnik xizmat ko&amp;rsquo;rsatish sifatini oshirish maqsadida zamonaviy diagnostika uskunalarini yetkazib berish va joriy etish.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Amalga oshirilgan ishlar
+ &lt;div id="amalga-oshirilgan-ishlar" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#amalga-oshirilgan-ishlar" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Korxona ehtiyojlarini tahlil qilish va texnik topshiriq ishlab chiqish&lt;/li&gt;
+&lt;li&gt;Diagnostika uskunalarini tanlash va xorijdan yetkazib berish&lt;/li&gt;
+&lt;li&gt;Uskunalarni o&amp;rsquo;rnatish va sozlash&lt;/li&gt;
+&lt;li&gt;Xodimlarni uskunalar bilan ishlash bo&amp;rsquo;yicha o&amp;rsquo;qitish&lt;/li&gt;
+&lt;li&gt;Texnik hujjatlarni o&amp;rsquo;zbek tiliga tarjima qilish va moslash&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;Natijalar
+ &lt;div id="natijalar" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#natijalar" aria-label="Якорь"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Yangi diagnostika uskunalari ta&amp;rsquo;mirlash sifatini sezilarli oshirdi va nosozliklarni aniqlash vaqtini qisqartirdi. Korxona xodimlari yangi uskunalar bilan ishlash bo&amp;rsquo;yicha to&amp;rsquo;liq o&amp;rsquo;qitildi.&lt;/p&gt;</description></item></channel></rss>

@@ -1,28 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Railway on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/tags/railway/</link><description>Recent content in Railway on RailTech</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/tags/railway/index.xml" rel="self" type="application/rss+xml"/><item><title>Safety Systems for JSC Uzbekistan Railways</title><link>https://nzulkaynarov.github.io/rt-website-public/en/projects/uty-safety-systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/projects/uty-safety-systems/</guid><description>&lt;h2 id="about-the-project">About the Project&lt;/h2>
-&lt;p>As part of the train safety system modernization program for JSC Uzbekistan Railways, RailTech supplied 42 sets of microprocessor-based automatic braking control systems (SAUT).&lt;/p>
-&lt;h3 id="objectives">Objectives&lt;/h3>
-&lt;ul>
-&lt;li>Supply certified equipment manufactured in Russia&lt;/li>
-&lt;li>Full customs clearance and delivery to the client&amp;rsquo;s depot&lt;/li>
-&lt;li>Technical support during commissioning&lt;/li>
-&lt;li>Depot personnel training&lt;/li>
-&lt;/ul>
-&lt;h3 id="results">Results&lt;/h3>
-&lt;ul>
-&lt;li>Equipment delivered on time and in full&lt;/li>
-&lt;li>All sets successfully commissioned&lt;/li>
-&lt;li>Personnel trained and certified&lt;/li>
-&lt;li>2-year warranty support provided&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>This project was one of the largest in the company&amp;rsquo;s history, demonstrating our ability to execute large-scale government contracts.&lt;/p></description></item><item><title>Train Safety in Uzbekistan: Current State and Future Outlook</title><link>https://nzulkaynarov.github.io/rt-website-public/en/blog/railway-safety-uzbekistan/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/blog/railway-safety-uzbekistan/</guid><description>&lt;p>Train safety is a top priority in the development of Uzbekistan&amp;rsquo;s railway sector. In this overview, we examine the current state of safety systems and the prospects for their modernization.&lt;/p>
-&lt;h2 id="current-state">Current State&lt;/h2>
-&lt;p>Uzbekistan&amp;rsquo;s railway network spans over 6,500 km of track, serving both passenger and freight operations. The train safety system is built on several key components:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Automatic Block Signaling&lt;/strong> — interval-based train movement regulation&lt;/li>
-&lt;li>&lt;strong>Electric Interlocking&lt;/strong> — switch and signal control&lt;/li>
-&lt;li>&lt;strong>Automatic Locomotive Signaling&lt;/strong> — in-cab signal duplication&lt;/li>
-&lt;li>&lt;strong>Automatic Braking Systems&lt;/strong> — automated braking control&lt;/li>
-&lt;/ul>
-&lt;h2 id="modernization-priorities">Modernization Priorities&lt;/h2>
-&lt;p>The main modernization priorities include:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Railway on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/tags/railway/</link><description>Recent content in Railway on RailTech</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/tags/railway/index.xml" rel="self" type="application/rss+xml"/><item><title>Safety Systems for JSC Uzbekistan Railways</title><link>https://nzulkaynarov.github.io/rt-website-public/en/projects/uty-safety-systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/projects/uty-safety-systems/</guid><description>&lt;h2 class="relative group"&gt;About the Project
+ &lt;div id="about-the-project" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#about-the-project" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;As part of the train safety system modernization program for JSC Uzbekistan Railways, RailTech supplied 42 sets of microprocessor-based automatic braking control systems (SAUT).&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Objectives
+ &lt;div id="objectives" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#objectives" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supply certified equipment manufactured in Russia&lt;/li&gt;
+&lt;li&gt;Full customs clearance and delivery to the client&amp;rsquo;s depot&lt;/li&gt;
+&lt;li&gt;Technical support during commissioning&lt;/li&gt;
+&lt;li&gt;Depot personnel training&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;Results
+ &lt;div id="results" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#results" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Equipment delivered on time and in full&lt;/li&gt;
+&lt;li&gt;All sets successfully commissioned&lt;/li&gt;
+&lt;li&gt;Personnel trained and certified&lt;/li&gt;
+&lt;li&gt;2-year warranty support provided&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;This project was one of the largest in the company&amp;rsquo;s history, demonstrating our ability to execute large-scale government contracts.&lt;/p&gt;</description></item><item><title>Train Safety in Uzbekistan: Current State and Future Outlook</title><link>https://nzulkaynarov.github.io/rt-website-public/en/blog/railway-safety-uzbekistan/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/blog/railway-safety-uzbekistan/</guid><description>&lt;p&gt;Train safety is a top priority in the development of Uzbekistan&amp;rsquo;s railway sector. In this overview, we examine the current state of safety systems and the prospects for their modernization.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Current State
+ &lt;div id="current-state" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#current-state" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Uzbekistan&amp;rsquo;s railway network spans over 6,500 km of track, serving both passenger and freight operations. The train safety system is built on several key components:&lt;/p&gt;</description></item></channel></rss>
