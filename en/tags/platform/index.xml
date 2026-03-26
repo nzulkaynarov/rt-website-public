@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Platform on RailTech</title><link>https://nzulkaynarov.github.io/rt-website-public/en/tags/platform/</link><description>Recent content in Platform on RailTech</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nzulkaynarov.github.io/rt-website-public/en/tags/platform/index.xml" rel="self" type="application/rss+xml"/><item><title>RailTech B2B Platform Development</title><link>https://nzulkaynarov.github.io/rt-website-public/en/projects/b2b-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/projects/b2b-platform/</guid><description>&lt;h2 class="relative group"&gt;About the Project
+ &lt;div id="about-the-project" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#about-the-project" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;A proprietary development by RailTech — a digital B2B platform that automates the full industrial equipment supply cycle.&lt;/p&gt;
+
+&lt;h3 class="relative group"&gt;Key Modules
+ &lt;div id="key-modules" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#key-modules" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Catalog&lt;/strong&gt; — 500+ items from 86 manufacturers with technical documentation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quote Calculator&lt;/strong&gt; — automatic Landed Cost computation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CRM&lt;/strong&gt; — deal management and document workflow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Partner Portal&lt;/strong&gt; — partner workspace with KYC verification&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smart Import&lt;/strong&gt; — Excel upload with automatic item matching&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Admin Panel&lt;/strong&gt; — system-wide monitoring and management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class="relative group"&gt;Technology
+ &lt;div id="technology" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#technology" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;The platform is built on a modern technology stack, ensuring high performance, security, and scalability.&lt;/p&gt;</description></item><item><title>RailTech Launches B2B Platform for Industrial Procurement</title><link>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://nzulkaynarov.github.io/rt-website-public/en/blog/b2b-platform-launch/</guid><description>&lt;p&gt;RailTech has launched its proprietary digital B2B platform, automating the full cycle of industrial equipment supply in Uzbekistan.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Platform Capabilities
+ &lt;div id="platform-capabilities" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#platform-capabilities" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;The platform integrates a catalog of 500+ equipment items, a quote calculator with Landed Cost computation, a CRM system for deal management, and a Partner Portal with KYC verification.&lt;/p&gt;
+&lt;p&gt;The standout feature is &lt;strong&gt;Smart Import&lt;/strong&gt;, which allows users to upload an Excel file with their required items and automatically match them against the catalog. The algorithm achieves approximately 92% accuracy.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Who It&amp;rsquo;s For
+ &lt;div id="who-its-for" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#who-its-for" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;The platform is designed for industrial enterprises procuring equipment for:&lt;/p&gt;</description></item></channel></rss>

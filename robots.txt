@@ -1,0 +1,40 @@
+
+
+
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+  
+User-agent: Googlebot
+Allow: /
+
+  
+User-agent: Bingbot
+Allow: /
+
+  
+User-agent: Yandex
+Allow: /
+
+  
+User-agent: GPTBot
+Disallow: /
+
+  
+User-agent: CCBot
+Disallow: /
+
+  
+User-agent: anthropic-ai
+Disallow: /
+
+  
+User-agent: Claude-Web
+Disallow: /
+
+  
+
+Sitemap: https://nzulkaynarov.github.io/rt-website-public/sitemap.xml
